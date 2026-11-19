@@ -96,7 +96,7 @@ public class MohammedRasheen {
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rasheen404&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0d1117&title_color=ff7e5f&icon_color=feb47b&text_color=c9d1d9&border_color=30363d" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rasheen404&show_icons=true&count_private=true&rank_icon=github&bg_color=0d1117&title_color=ff7e5f&icon_color=feb47b&text_color=c9d1d9&border_color=30363d" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasheen404&layout=compact&langs_count=8&bg_color=0d1117&title_color=ff7e5f&text_color=c9d1d9&border_color=30363d" />
 </p>
 
